@@ -8,7 +8,7 @@ Método: POST
 
 URL: http://127.0.0.1:8000/predict 
 
-Corpo da Requisição (Request Body) é o formato JSON esperado. Use código da  classe Aluno como exemplo. 
+Corpo da Requisição (Request Body) é o formato JSON esperado. Segue código da  classe Aluno como exemplo. 
 
 JSON 
 
