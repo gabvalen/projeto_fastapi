@@ -36,20 +36,25 @@ Descrição:** Recebe os dados de um aluno e retorna a previsão de risco de eva
 
 **Corpo da Requisição (JSON de Entrada):**
 
+```json
+`
 {
-  "idade": 15,
-  "serie": 9,
-  "mudou_escola": 1,
-  "distorcao_idade_serie": 1
+  "idade": 15,
+  "serie": 9,
+  "mudou_escola": 1,
+  "distorcao_idade_serie": 1
 }
+```
 **Resposta (JSON de Saída):**
 
-JSON
+```json
+`
 
 {
   "previsao": 1,
   "probabilidade": [0.25, 0.75]
 }
+```
 previsao: 1 = alto risco de evasão; 0 = baixo risco.
 
 probabilidade: A chance de ser da classe 0 (baixo risco) e da classe 1 (alto risco), respectivamente.
