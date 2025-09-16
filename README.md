@@ -37,7 +37,7 @@ Descrição:** Recebe os dados de um aluno e retorna a previsão de risco de eva
 **Corpo da Requisição (JSON de Entrada):**
 
 ```json
-`
+
 {
   "idade": 15,
   "serie": 9,
@@ -48,7 +48,7 @@ Descrição:** Recebe os dados de um aluno e retorna a previsão de risco de eva
 **Resposta (JSON de Saída):**
 
 ```json
-`
+
 
 {
   "previsao": 1,
