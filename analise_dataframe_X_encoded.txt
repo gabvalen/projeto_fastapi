@@ -1,0 +1,120 @@
+============================================================
+ANÁLISE DO DATAFRAME: 'X_encoded (Dados de Entrada Finais)'
+Total de Colunas: 28
+============================================================
+
+Coluna: 'Age'
+  Tipo de Dados: int64
+  Valores Discretos: [15, 16, 17, 18, 19, 20, 21, 22]
+
+Coluna: 'Mother_Education'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1, 2, 3, 4]
+
+Coluna: 'Father_Education'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1, 2, 3, 4]
+
+Coluna: 'Travel_Time'
+  Tipo de Dados: int64
+  Valores Discretos: [1, 2, 3, 4]
+
+Coluna: 'Study_Time'
+  Tipo de Dados: int64
+  Valores Discretos: [1, 2, 3, 4]
+
+Coluna: 'Free_Time'
+  Tipo de Dados: int64
+  Valores Discretos: [1, 2, 3, 4, 5]
+
+Coluna: 'Going_Out'
+  Tipo de Dados: int64
+  Valores Discretos: [1, 2, 3, 4, 5]
+
+Coluna: 'Weekend_Alcohol_Consumption'
+  Tipo de Dados: int64
+  Valores Discretos: [1, 2, 3, 4, 5]
+
+Coluna: 'Weekday_Alcohol_Consumption'
+  Tipo de Dados: int64
+  Valores Discretos: [1, 2, 3, 4, 5]
+
+Coluna: 'Number_of_Absences'
+  Tipo de Dados: int64
+  Intervalo Numérico: de 0 a 32
+
+Coluna: 'Grade_1'
+  Tipo de Dados: int64
+  Intervalo Numérico: de 0 a 19
+
+Coluna: 'Grade_2'
+  Tipo de Dados: int64
+  Intervalo Numérico: de 0 a 19
+
+Coluna: 'Final_Grade'
+  Tipo de Dados: int64
+  Intervalo Numérico: de 0 a 19
+
+Coluna: 'Gender_F'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1]
+
+Coluna: 'Gender_M'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1]
+
+Coluna: 'Address_R'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1]
+
+Coluna: 'Address_U'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1]
+
+Coluna: 'Mother_Job_at_home'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1]
+
+Coluna: 'Mother_Job_health'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1]
+
+Coluna: 'Mother_Job_other'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1]
+
+Coluna: 'Mother_Job_services'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1]
+
+Coluna: 'Mother_Job_teacher'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1]
+
+Coluna: 'Wants_Higher_Education_no'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1]
+
+Coluna: 'Wants_Higher_Education_yes'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1]
+
+Coluna: 'Internet_Access_no'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1]
+
+Coluna: 'Internet_Access_yes'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1]
+
+Coluna: 'In_Relationship_no'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1]
+
+Coluna: 'In_Relationship_yes'
+  Tipo de Dados: int64
+  Valores Discretos: [0, 1]
+
+============================================================
+FIM DA ANÁLISE
+============================================================
