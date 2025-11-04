@@ -1,0 +1,22 @@
+[client]
+# Modo do toolbar:
+# "auto" → padrão (mostra botões quando é local)
+# "viewer" → oculta botões de desenvolvedor
+# "developer" → mostra sempre
+toolbarMode = "viewer"
+
+# Define layout mais espaçoso
+showErrorDetails = false
+
+[server]
+# Porta padrão (opcional, só muda se quiser)
+port = 8501
+headless = true
+
+[theme]
+# Tema consistente com suas cores
+primaryColor = "#2D6A4F"
+backgroundColor = "#2D6A4F"
+secondaryBackgroundColor = "#1B4332"
+textColor = "#E9F5DB"
+font = "sans serif"

@@ -1,0 +1,16 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Cache e metadados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos temporários e de sistema
+*.log
+.DS_Store
+
+# Arquivos de dependência locais
+*.env
